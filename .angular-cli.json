@@ -10,7 +10,8 @@
       "assets": [
         "assets",
         "app.js",
-        "/assets/app2.js",
+        "app2.js",
+        "app3.js",
         "favicon.ico"
       ],
       "index": "index.html",
