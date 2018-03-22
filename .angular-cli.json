@@ -9,6 +9,8 @@
       "outDir": "dist",
       "assets": [
         "assets",
+        "app.js",
+        "/assets/app2.js",
         "favicon.ico"
       ],
       "index": "index.html",
@@ -21,7 +23,8 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
