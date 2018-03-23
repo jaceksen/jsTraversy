@@ -12,6 +12,11 @@
         "app.js",
         "app2.js",
         "app3.js",
+        "app4.js",
+        "data.txt",
+        "/assets/json/customer.json",
+        "/assets/json/customers.json",
+        "/assets/js/app5.js",
         "favicon.ico"
       ],
       "index": "index.html",
